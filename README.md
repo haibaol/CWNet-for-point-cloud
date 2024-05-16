@@ -1,4 +1,4 @@
-# Learning Geometry-Disentangled Representation for Complementary Understanding of 3D Object Point Cloud.
+# From low-level coordinates to high-level features: a channel-wise point cloud analysis network
 This repository is built for the paper:
 
 
