@@ -66,7 +66,7 @@ The following tables report the current performances on different tasks and data
 
 ### Object Classification on ModelNet40
 
-| Method | OA |
+| Method | mAcc | OA |
 | :--- | :---: | :---: |
 | GDANet      | **91.0%**| **93.7%** |
 
