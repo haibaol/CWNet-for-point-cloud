@@ -1,0 +1,6 @@
+Namespace(batch_size=32, epochs=200, eval=1, exp_name='32121++', lr=0.001, model_path='checkpoints/32121++/best_model.t7', momentum=0.9, no_cuda=False, num_points=1024, seed=1, test_batch_size=16, use_sgd=True)
+Using GPU : 0 from 2 devices
+Test :: test acc: 0.937196, test avg acc: 0.910407
+Namespace(batch_size=32, epochs=200, eval=1, exp_name='32121++', lr=0.001, model_path='checkpoints/32121++/best_model.t7', momentum=0.9, no_cuda=False, num_points=1024, seed=1, test_batch_size=16, use_sgd=True)
+Using GPU : 0 from 2 devices
+Test :: test acc: 0.937196, test avg acc: 0.910407
