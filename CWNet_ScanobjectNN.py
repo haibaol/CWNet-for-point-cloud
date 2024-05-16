@@ -1,10 +1,10 @@
 import torch.nn as nn
 import torch
 import torch.nn.functional as F
-from util.GDANet_util import local_operator, GDM, SGCAM
+#from util.CWNet_util import local_operator, GDM, SGCAM
 
 
-class GDANET(nn.Module):
+class CWNET(nn.Module):
     def __init__(self):
         super(GDANET, self).__init__()
 
